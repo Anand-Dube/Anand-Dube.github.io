@@ -40,6 +40,13 @@ cultivated areas and area shares of crops, especially that of water-intensive cr
 also suggest that the crop diversification significantly reduces the variability of cropping inten-
 sity to droughts, while irrigation proves ineffective in mitigating the adverse effects of droughts.
 
-### Paper 2: [Does financial transparency within firms promote innovation?](#)
+### Paper 2: [After the Storm. The Impact of Tropical Cyclones on Household Welfare](#)
+Co-authors: [Digvijay Singh Negi](https://sites.google.com/view/digvijaysnegi/home?authuser=0)
+
+### Paper 3: [Does financial transparency within firms promote innovation?](#)
+Co-authors: [Krishna Dixit](https://www.imthyderabad.edu.in/faculty/krishnadixit)
+
+
+
 
 
