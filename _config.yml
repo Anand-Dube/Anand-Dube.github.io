@@ -1,6 +1,6 @@
 title: "Anand Dubey"
 author: "Anand Dubey"
-description: "Indira Gandhi Institue of Development Research"
+description: "Indira Gandhi Institute of Development Research"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {file: "index.html", title: "Home", icon=home}
-  - {file: "README.md", title="About me", icon= address-card}
+  #- {file: "README.md", title="About me", icon= address-card}
   - {file: "/anand.pdf", title: "Research", icon=home}
   - {file: "/anand.pdf", title: "CV", icon=home}
  
