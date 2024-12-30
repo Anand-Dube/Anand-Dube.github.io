@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {file: "index.html", title: "Home", icon=home}
   #- {file: "README.md", title="About me", icon= address-card}
   - {file: "research.md", title: "Research", icon=home}
-  - {file: "assets/CV/AD_updated_cv.pdf", title: "CV", icon: file-pdf}
+  - {file: "assets/CV/AD_updated_cv.pdf", title: "CV", icon= home}
  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
