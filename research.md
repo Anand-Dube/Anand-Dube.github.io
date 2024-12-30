@@ -30,8 +30,8 @@ Growing multiple crops per year (cropping intensity) is a crucial determinant of
 production, especially in multi-cropping and drought-prone regions. However, existing studies
 assessing the adverse effects of extreme weather events on global food security, have primarily
 focused on crop yield and area, while neglecting their effect on cropping intensity. In the face
-of extreme weather, farmers may adjust cropping intensity - either increasing or decreasing it
-- which can mitigate or exacerbate impacts on overall production. Using district-level panel
+of extreme weather, farmers may adjust cropping intensity - either increasing or decreasing it - 
+which can mitigate or exacerbate impacts on overall production. Using district-level panel
 data from India, this study examines how cropping intensity responds to rainfall shocks both
 droughts and excessive rainfall. We find that rainfall shocks have an asymmetric effect on crop-
 ping intensity: it declines in response to drought but increases under excess rainfall, reflecting
