@@ -6,7 +6,7 @@ title : "About me"
 <div style="display: flex; align-items: center;">
 
   <div style="flex: 1; padding-right: 20px;">
-    <img src="/assets/images/my-photo.jpg" alt="Anand's Photo" style="width:200px; height:auto; border-radius:10px;">
+    <img src="/assets/images/anand.jpg" alt="Anand's Photo" style="width:200px; height:auto; border-radius:10px;">
   </div>
 
   <div style="flex: 2;">
