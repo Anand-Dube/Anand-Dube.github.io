@@ -3,10 +3,6 @@ layout: page
 title: "CV"
 ---
 
-<h2>My CV</h2>
+You can view or download my CV by clicking the link below:
 
-<iframe src="/assets/CV/AD_updated_cv.pdf" width="100%" height="600px">
-  Your browser does not support PDF viewing. 
-  <a href="/assets/CV/AD_updated_cv.pdf">Download the PDF</a>.
-</iframe>
-
+[Download My CV](assets/CV/AD_updated_cv.pdf)
