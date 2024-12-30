@@ -11,9 +11,10 @@ title: "Research"
 {% endif %}
 {% endcomment %}
 
+<!--
 ## Published Papers
 
-<!--
+
 ### Paper 1: [Title of the Published Paper](#link-to-paper1)
 A brief description of the published paper. This may include details like the research question, methodology, and findings.
 
