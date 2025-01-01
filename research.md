@@ -26,7 +26,7 @@ Another description for a published paper with relevant details and a link to th
 
 ## Working Papers
 
-### -- [Rainfall shocks and land use intensity](https://www.dropbox.com/scl/fi/c8lz7lfn6bee1isg7wvvl/chapter_1.pdf?rlkey=xhilg6e3zcxgee9femy2apv2j&st=ftwzjqht&dl=0)
+- ### [Rainfall shocks and land use intensity](https://www.dropbox.com/scl/fi/c8lz7lfn6bee1isg7wvvl/chapter_1.pdf?rlkey=xhilg6e3zcxgee9femy2apv2j&st=ftwzjqht&dl=0)
 Growing multiple crops per year (cropping intensity) is a crucial determinant of agricultural
 production, especially in multi-cropping and drought-prone regions. However, existing studies
 assessing the adverse effects of extreme weather events on global food security, have primarily
@@ -41,10 +41,10 @@ cultivated areas and area shares of crops, especially that of water-intensive cr
 also suggest that the crop diversification significantly reduces the variability of cropping inten-
 sity to droughts, while irrigation proves ineffective in mitigating the adverse effects of droughts.
 
-### --- [After the Storm. The Impact of Tropical Cyclones on Household Welfare](#)
+- ### [After the Storm. The Impact of Tropical Cyclones on Household Welfare](#)
 Co-author: [Digvijay Singh Negi](https://sites.google.com/view/digvijaysnegi/home?authuser=0)
 
-### --- [Does financial transparency within firms promote innovation?](#)
+- ### [Does financial transparency within firms promote innovation?](#)
 Co-author: [Krishna Dixit](https://www.imthyderabad.edu.in/faculty/krishnadixit)
 
 
