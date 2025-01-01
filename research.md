@@ -26,7 +26,7 @@ Another description for a published paper with relevant details and a link to th
 
 ## Working Papers
 
-### --- [Rainfall shocks and land use intensity](https://www.dropbox.com/scl/fi/c8lz7lfn6bee1isg7wvvl/chapter_1.pdf?rlkey=xhilg6e3zcxgee9femy2apv2j&st=ftwzjqht&dl=0)
+### -- [Rainfall shocks and land use intensity](https://www.dropbox.com/scl/fi/c8lz7lfn6bee1isg7wvvl/chapter_1.pdf?rlkey=xhilg6e3zcxgee9femy2apv2j&st=ftwzjqht&dl=0)
 Growing multiple crops per year (cropping intensity) is a crucial determinant of agricultural
 production, especially in multi-cropping and drought-prone regions. However, existing studies
 assessing the adverse effects of extreme weather events on global food security, have primarily
