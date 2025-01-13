@@ -16,7 +16,7 @@ title: "Research"
 ## Working Papers
 
 - ### [Rainfall shocks and land use intensity]()
-  <button class="dropdown-button" onclick="toggleAbstract('abstract1')">Show/Hide Abstract</button>
+  <button class="dropdown-button" onclick="toggleAbstract('abstract1')">Show Abstract</button>
   <div id="abstract1" class="abstract-content">
       <p>Growing multiple crops per year (cropping intensity) is a crucial determinant of agricultural
       production, especially in multi-cropping and drought-prone regions. However, existing studies
@@ -37,8 +37,15 @@ title: "Research"
 - ### [Does financial transparency within firms promote innovation?](#)
   Co-author: [Krishna Dixit](https://www.imthyderabad.edu.in/faculty/krishnadixit)
 
+   <button class="dropdown-button" onclick="toggleAbstract('abstract2')">Show Abstract</button>
+  <div id="abstract2" class="abstract-content">
+      <p> Firms’ innovations spur their productivity growth and provide them with a sustainable competitive advantage. However, the positive effects of firms’ innovations extend beyond their own productivity improvements, contributing to overall economic growth and employment. Existing empirical studies suggest that firms’ innovations are influenced by several factors, among which firm financial transparency is an important one, as it reduces the firm’s cost of capital and improves its contractual efficiency. However, a priori, how financial transparency would affect innovation is ambiguous since there are two competing hypotheses: one suggests that financial transparency could increase firm innovation, while the other suggests it may reduce it. Existing empirical studies have found mixed evidence, with some studies suggesting a positive relationship, while others have found a negative association. In this context, using multi-country firm-level data from the World Bank Enterprises Survey, this paper re-examines the question: how does firm financial transparency affect innovation? Our results suggest that financial transparency is positively correlated with firm innovation and remains robust across several checks, including endogeneity concerns. This positive association between financial transparency and innovation also holds for both intensive and extensive margins of firm innovativeness, including when we separate innovation into adoption and invention aspects. Lastly, we also conduct a heterogeneity analysis across firm size, female ownership, and shareholding patterns, uncovering some interesting patterns.</p>
+  </div>
+
 - ### [After the Storm. The Impact of Tropical Cyclones on Household Welfare](#)
   Co-author: [Digvijay Singh Negi](https://sites.google.com/view/digvijaysnegi/home?authuser=0)
+
+  
 
 <script>
     function toggleAbstract(id) {
@@ -65,7 +72,7 @@ title: "Research"
         border: none;
         padding: 10px 20px;
         cursor: pointer;
-        font-size: 14px;
+        font-size: 10px;
         border-radius: 4px;
     }
     .dropdown-button:hover {
