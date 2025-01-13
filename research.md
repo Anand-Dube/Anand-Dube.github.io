@@ -15,7 +15,7 @@ title: "Research"
 
 ## Working Papers
 
-- ### [Rainfall shocks and land use intensity]()
+- ### [Rainfall shocks and land use intensity](#)
   <button class="dropdown-button" onclick="toggleAbstract('abstract1')">Show Abstract</button>
   <div id="abstract1" class="abstract-content">
       <p>Growing multiple crops per year (cropping intensity) is a crucial determinant of agricultural
@@ -42,6 +42,9 @@ title: "Research"
       <p> Firms’ innovations spur their productivity growth and provide them with a sustainable competitive advantage. However, the positive effects of firms’ innovations extend beyond their own productivity improvements, contributing to overall economic growth and employment. Existing empirical studies suggest that firms’ innovations are influenced by several factors, among which firm financial transparency is an important one, as it reduces the firm’s cost of capital and improves its contractual efficiency. However, a priori, how financial transparency would affect innovation is ambiguous since there are two competing hypotheses: one suggests that financial transparency could increase firm innovation, while the other suggests it may reduce it. Existing empirical studies have found mixed evidence, with some studies suggesting a positive relationship, while others have found a negative association. In this context, using multi-country firm-level data from the World Bank Enterprises Survey, this paper re-examines the question: how does firm financial transparency affect innovation? Our results suggest that financial transparency is positively correlated with firm innovation and remains robust across several checks, including endogeneity concerns. This positive association between financial transparency and innovation also holds for both intensive and extensive margins of firm innovativeness, including when we separate innovation into adoption and invention aspects. Lastly, we also conduct a heterogeneity analysis across firm size, female ownership, and shareholding patterns, uncovering some interesting patterns.</p>
   </div>
 
+  - ### [Labor regulation and firm innovation?](#)
+  Co-author: [Krishna Dixit](https://www.imthyderabad.edu.in/faculty/krishnadixit)
+
 - ### [After the Storm. The Impact of Tropical Cyclones on Household Welfare](#)
   Co-author: [Digvijay Singh Negi](https://sites.google.com/view/digvijaysnegi/home?authuser=0)
 
@@ -60,22 +63,31 @@ title: "Research"
 
 <style>
     .abstract-content {
-        display: none;
-        margin-top: 10px;
-        border-left: 4px solid #007BFF;
-        padding: 10px;
-        background-color: #f9f9f9;
+        display: none; /* Initially hidden */
+        margin-top: 5px; /* Small margin above the box */
+        border-left: 3px solid #000; /* Black border */
+        padding: 8px; /* Smaller padding for a compact box */
+        background-color: #f0f0f0; /* Light gray background */
+        font-family: Arial, sans-serif; /* Standard font */
+        font-size: 12px; /* Smaller font size */
+        color: #000; /* Black text color */
+        border-radius: 3px; /* Slightly rounded corners */
+        max-width: 400px; /* Reduce the width of the box */
+        line-height: 1.4; /* Compact line spacing */
     }
+
     .dropdown-button {
-        background-color: #007BFF;
+        background-color: #000; /* Black button */
         color: white;
         border: none;
-        padding: 10px 20px;
+        padding: 6px 15px; /* Smaller padding for compact button */
         cursor: pointer;
-        font-size: 10px;
-        border-radius: 4px;
+        font-size: 10px; /* Smaller font size */
+        border-radius: 5px; /* Slightly rounded corners */
     }
+
     .dropdown-button:hover {
-        background-color: #0056b3;
+        background-color: #333; /* Dark gray hover effect */
     }
 </style>
+
