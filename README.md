@@ -22,10 +22,12 @@ Put public files in the `assets` folder:
 - `assets/papers/` for papers and preprints
 - `assets/teaching/` for syllabi, slides, notes, and other course materials
 
-Then link to them from `index.html`. For example:
+Then link to them from the relevant page. For example:
 
 ```html
 <a href="assets/cv/Resume.pdf">Download CV</a>
+<a href="assets/papers/paper-file-name.pdf">PDF</a>
+<a href="assets/teaching/course-material.pdf">Materials</a>
 ```
 
 GitHub Pages will publish these files at URLs like:
