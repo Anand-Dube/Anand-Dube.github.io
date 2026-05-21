@@ -25,13 +25,13 @@ Put public files in the `assets` folder:
 Then link to them from `index.html`. For example:
 
 ```html
-<a href="assets/cv/anand-dube-cv.pdf">Download CV</a>
+<a href="assets/cv/Resume.pdf">Download CV</a>
 ```
 
 GitHub Pages will publish these files at URLs like:
 
 ```text
-https://Anand-Dube.github.io/assets/cv/anand-dube-cv.pdf
+https://Anand-Dube.github.io/assets/cv/Resume.pdf
 ```
 
 ## Publish with GitHub Pages
