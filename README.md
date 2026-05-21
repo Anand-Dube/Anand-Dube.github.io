@@ -14,6 +14,26 @@ Update `index.html` with your:
 
 Update `styles.css` if you want to change colors, spacing, or typography.
 
+## Add public files
+
+Put public files in the `assets` folder:
+
+- `assets/cv/` for your CV
+- `assets/papers/` for papers and preprints
+- `assets/teaching/` for syllabi, slides, notes, and other course materials
+
+Then link to them from `index.html`. For example:
+
+```html
+<a href="assets/cv/anand-dube-cv.pdf">Download CV</a>
+```
+
+GitHub Pages will publish these files at URLs like:
+
+```text
+https://Anand-Dube.github.io/assets/cv/anand-dube-cv.pdf
+```
+
 ## Publish with GitHub Pages
 
 1. Create a new GitHub repository named either:
