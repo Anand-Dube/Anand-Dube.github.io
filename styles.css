@@ -228,6 +228,12 @@ h3 {
   font-size: 0.9rem;
 }
 
+@media (min-width: 681px) {
+  .nav-toggle {
+    display: none;
+  }
+}
+
 @media (max-width: 680px) {
   .nav {
     flex-wrap: wrap;
@@ -245,7 +251,7 @@ h3 {
   }
 
   .nav-links {
-    display: none;
+    display: none !important;
     flex-basis: 100%;
     flex-direction: column;
     justify-content: flex-start;
@@ -257,7 +263,7 @@ h3 {
   }
 
   .nav-links.open {
-    display: flex;
+    display: flex !important;
   }
 
   main {
@@ -305,13 +311,6 @@ h3 {
 
   .footer {
     padding: 20px 16px;
-  }
-}
-
-@media (max-width: 400px) {
-  .nav-links {
-    gap: 8px;
-    font-size: 0.82rem;
   }
 
   .button {
