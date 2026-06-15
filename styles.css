@@ -77,7 +77,6 @@ a {
 .nav-links a {
   color: var(--muted);
   text-decoration: none;
-  text-transform: uppercase;
 }
 
 .nav-links a:hover {
@@ -147,18 +146,6 @@ h1 {
 h2 {
   margin-bottom: 18px;
   font-size: 1.75rem;
-}
-
-.caps-title {
-  font-family: Arial, Helvetica, sans-serif;
-  letter-spacing: 0.04em;
-  line-height: 1.15;
-  text-transform: uppercase;
-}
-
-.nav-links a::first-letter,
-.caps-title::first-letter {
-  font-size: 1.25em;
 }
 
 h3 {
