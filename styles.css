@@ -180,8 +180,8 @@ h3 {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 34px;
-  height: 34px;
+  width: 28px;
+  height: 28px;
   border: 1px solid var(--border);
   border-radius: 50%;
   background: var(--surface);
@@ -193,8 +193,8 @@ h3 {
 }
 
 .profile-icon-link img {
-  width: 20px;
-  height: 20px;
+  width: 16px;
+  height: 16px;
 }
 
 .visually-hidden {
