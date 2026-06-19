@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Google Scholar">
+  <path fill="#4285f4" d="M16 3 2.5 14 16 25l13.5-11z"/>
+  <path fill="#185abc" d="M8 14v5.5c0 3.6 3.6 6.5 8 6.5s8-2.9 8-6.5V14z"/>
+  <circle cx="16" cy="17.5" r="6.5" fill="#fff"/>
+  <path fill="#4285f4" d="M16 13a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"/>
+</svg>
