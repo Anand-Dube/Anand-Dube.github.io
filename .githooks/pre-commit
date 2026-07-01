@@ -1,0 +1,14 @@
+#!/bin/sh
+# Auto-bump the cache-busting ?v= query string on the CV download link
+# whenever assets/cv/Resume.pdf is staged for commit, so browsers/GitHub
+# Pages don't keep serving a stale cached copy after an update.
+
+CV_PATH="assets/cv/Resume.pdf"
+HTML_PATH="index.html"
+
+if git diff --cached --name-only | grep -qx "$CV_PATH"; then
+  HASH=$(git hash-object "$CV_PATH" | cut -c1-8)
+  sed -i -E "s#($CV_PATH\?v=)[A-Za-z0-9]+#\1$HASH#" "$HTML_PATH"
+  git add "$HTML_PATH"
+  echo "pre-commit: bumped CV cache-buster to v=$HASH"
+fi
